@@ -2,8 +2,8 @@
 
 - [Bitcoin](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_bitcoin&p=bigquery-public-data) 
     ([Example Queries](https://console.cloud.google.com/marketplace/product/bitcoin/crypto-bitcoin))
-- [Ethereum](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_ethereum&p=bigquery-public-data),
-    [Example Queries](https://console.cloud.google.com/marketplace/product/ethereum/crypto-ethereum-blockchain)
+- [Ethereum](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_ethereum&p=bigquery-public-data)
+    ([Example Queries](https://console.cloud.google.com/marketplace/product/ethereum/crypto-ethereum-blockchain))
 - [Dogecoin](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_dogecoin&p=bigquery-public-data)
 - [ZCash](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_zcash&p=bigquery-public-data)
 - [Litecoin](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_litecoin&p=bigquery-public-data)
