@@ -27,3 +27,5 @@
     ([Example Queries](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-zilliqa-dataset))
 - [Theta](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_theta&p=public-data-finance)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-theta-dataset))
+- [Polygon](https://console.cloud.google.com/bigquery?page=dataset&d=crypto_polygon&p=public-data-finance)
+    ([Example Queries](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-polygon-dataset))  
