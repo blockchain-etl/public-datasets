@@ -32,5 +32,4 @@
   
 ## Nansen Public Datasets
 
-- [Fantom](https://console.cloud.google.com/bigquery?page=table&d=crypto_fantom&p=nansen-public-data&t=transactions)
 - [Celo](https://console.cloud.google.com/bigquery?page=table&d=crypto_celo&p=nansen-public-data&t=transactions)
