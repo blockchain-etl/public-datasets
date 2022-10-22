@@ -21,6 +21,3 @@
 | Zcash | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_zcash&p=bigquery-public-data) ([Examples](https://console.cloud.google.com/marketplace/product/zcash/crypto-zcash)) | 24 | [💧](pubsub.md)
 | Zilliqa | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_zilliqa&p=public-data-finance) ([Examples](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-zilliqa-dataset)) | ? | [💧](pubsub.md)
 
-# Public Pubsub Topics in BigQuery
-
-- [Bitcoin]
