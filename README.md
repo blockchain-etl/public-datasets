@@ -13,7 +13,7 @@
     ([Example Queries](https://console.cloud.google.com/marketplace/product/dogecoin/crypto-dogecoin))
 - [Ethereum](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_ethereum&p=bigquery-public-data)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/ethereum/crypto-ethereum-blockchain))
-- [Ethereum 2](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_ethereum2&p=public-data-finance)
+- [Ethereum 2](https://console.cloud.google.com/bigquery?page=table&t=beacon_blocks&d=crypto_ethereum2&p=public-data-finance)
 - [Ethereum Classic](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_ethereum_classic&p=bigquery-public-data)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/ethereum-classic/crypto-ethereum-classic))
 - [Hedera Hashgraph](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=mainnet&p=hedera-etl)
