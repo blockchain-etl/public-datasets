@@ -13,6 +13,7 @@
     ([Example Queries](https://console.cloud.google.com/marketplace/product/dogecoin/crypto-dogecoin))
 - [Ethereum](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_ethereum&p=bigquery-public-data)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/ethereum/crypto-ethereum-blockchain))
+- Ethereum 2
 - [Ethereum Classic](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_ethereum_classic&p=bigquery-public-data)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/ethereum-classic/crypto-ethereum-classic))
 - [Hedera Hashgraph](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=mainnet&p=hedera-etl)
@@ -26,6 +27,7 @@
     ([Example Queries](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-tezos-dataset))
 - [Theta](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_theta&p=public-data-finance)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-theta-dataset))
+- [XRP](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=fullhistory&p=xrpledgerdata)
 - [ZCash](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_zcash&p=bigquery-public-data)
     ([Example Queries](https://console.cloud.google.com/marketplace/product/zcash/crypto-zcash))
 - [Zilliqa](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_zilliqa&p=public-data-finance)
