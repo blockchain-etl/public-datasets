@@ -20,8 +20,8 @@ full topic name:
 | Dogecoin     | crypto-public-data  | crypto_dogecoin    | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
 | Eos          | crypto-public-data  | crypto_eos         | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
 | Ethereum     | crypto-public-data  | crypto_ethereum    | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
-| Ethereum 2   |                  ?  | crypto_ethereum2   | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-| Ethereum Classic |              ?  | crypto_ethereumclassic  | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+| Ethereum 2   |                  ?  | crypto_ethereum2   | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
+| Ethereum Classic |              ?  | crypto_ethereumclassic  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
 | Fantom       | nansen-public-data  | crypto_fantom      | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 | Hedera       |                  ?  | crypto_hedera      | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 | IoTeX        | public-data-finance | crypto_iotex       | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌
