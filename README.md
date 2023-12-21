@@ -28,7 +28,7 @@
 | Network | BigQuery | Lag | PubSub | Node repo(s) | Indexer repo(s) | Notes
 | --- | --- | --- | --- | --- | --- | ---
 | Algorand  | ⏳ | ? | ⏳ | ? | ? | Needs help
-| Aptos     | ⏳ | ? | ⏳ | ? | ? | Needs help
+| Aptos     | ⏳ | ? | ⏳ | ? | ? | In progress
 | Arbitrum  | ⏳ | ? | ⏳ | ? | ? | Needs help
 | Avalanche | ⏳ | ? | ⏳ | ? | ? | Needs help
 | BNB Chain | ⏳ | ? | ⏳ | ? | ? | Needs help
@@ -36,6 +36,6 @@
 | Eos       | ❌ | ? | ❌ | ? | [eos-etl](https://github.com/blockchain-etl/eos-etl), [eos-etl-airflow](https://github.com/blockchain-etl/eos-etl-airflow) | Needs help
 | Icon      | ❌ | ? | ❌ | ? | [icon-etl](https://github.com/blockchain-etl/icon-etl), [icon-etl-airflow](https://github.com/blockchain-etl/icon-etl-airflow) | Needs help
 | Klaytn    | 👷 | ? | 👷 | ? | [klaytn-etl](https://github.com/klaytn/klaytn-etl) | In progress
+| MultiversX  | ⏳ | ? | ⏳ | ? | ? | In progress
 | Optimism  | ⏳ | ? | ⏳ | ? | ? | Needs help
-| Solana    | 👷 | ? | 👷 | ? | [solana-etl](https://github.com/blockchain-etl/solana-etl) | In progress
-| Sui       | ⏳ | ? | ⏳ | ? | ? | Needs help
+| Sui       | ⏳ | ? | ⏳ | ? | ? | In progress
