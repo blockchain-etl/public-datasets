@@ -17,7 +17,6 @@
 | Litecoin | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_litecoin&p=bigquery-public-data) ([Examples](https://console.cloud.google.com/marketplace/product/litecoin/crypto-litecoin)) | 12 | [💧](pubsub.md) | [docker-litecoind](https://github.com/blockchain-etl/docker-litecoind) | see Bitcoin 
 | Polygon | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_polygon&p=public-data-finance) ([Examples](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-polygon-dataset)) | 80 | [💧](pubsub.md) | ? | [polygon-etl](https://github.com/blockchain-etl/polygon-etl)
 | Solana | [🔍](https://console.cloud.google.com/bigquery?page=table&t=Transactions&d=crypto_solana_mainnet_us&p=solana-data-sandbox) ([Examples](https://console.cloud.google.com/marketplace/product/bigquery-public-data/crypto-solana-mainnet-us)) | 2-5 min | ? | [etl-rust](https://github.com/blockchain-etl/etl-rust) | [solana-etl](https://github.com/blockchain-etl/solana-etl)
-
 | Tezos | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_tezos&p=public-data-finance) ([Examples](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-tezos-dataset)) | ? | ? | [tezos-kubernetes](https://github.com/blockchain-etl/tezos-kubernetes) | [tezos-etl](https://github.com/blockchain-etl/tezos-etl), [tezos-etl-airflow](https://github.com/blockchain-etl/tezos-etl-airflow)
 | Theta | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_theta&p=public-data-finance) ([Examples](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-theta-dataset)) | ? | ? | ? | [theta-etl](https://github.com/blockchain-etl/theta-etl)
 | XRP | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=fullhistory&p=xrpledgerdata) | ? | ? | ? | [fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
@@ -25,6 +24,7 @@
 | Zilliqa | [🔍](https://console.cloud.google.com/bigquery?page=table&t=transactions&d=crypto_zilliqa&p=public-data-finance) ([Examples](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-zilliqa-dataset)) | ? | ? | ? | [zilliqa-etl](https://github.com/blockchain-etl/zilliqa-etl)
 
 # Planning / Building
+
 | Network | BigQuery | Lag | PubSub | Node repo(s) | Indexer repo(s) | Notes
 | --- | --- | --- | --- | --- | --- | ---
 | Algorand  | ⏳ | ? | ⏳ | ? | ? | Needs help
